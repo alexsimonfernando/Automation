@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9d1d08e1-3dd9-4bf4-a478-2a48a0de2625" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/STDOUT" beforeDir="false" afterPath="$PROJECT_DIR$/STDOUT" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/config.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/olam/ObjectRepository/DashboardRepo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/olam/ObjectRepository/DashboardRepo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/olam/ObjectRepository/LoginRepo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/olam/ObjectRepository/LoginRepo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/olam/PageFunctions/CommonPageFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/olam/PageFunctions/CommonPageFunction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/olam/Runner/DriverClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/olam/Runner/DriverClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/olam/Runner/RunnerClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/olam/Runner/RunnerClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/olam/StepDefinitions/DashboardSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/olam/StepDefinitions/DashboardSteps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/olam/StepDefinitions/LoginSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/olam/StepDefinitions/LoginSteps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/olam/Utils/CommonActions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/olam/Utils/CommonActions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/olam/Utils/CommonClasses.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/olam/Utils/CommonClasses.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/olam/Utils/ConfigFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/olam/Utils/ConfigFile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/Driver/chromedriver.exe" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/Driver/chromedriver.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/Features/Verification_of_End_to_End_flow_for_Estate_ProductApprover_Rejection.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/Features/Verification_of_End_to_End_flow_for_Estate_ProductApprover_Rejection.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/Features/Verification_of_Session_Configuration_of_user.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/Features/Verification_of_Session_Configuration_of_user.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/extent-config.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1aKlnlrbF57IPZ2WfBGdCZrOekc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="atsource.io (1)" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="atsource.io (1)" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9d1d08e1-3dd9-4bf4-a478-2a48a0de2625" name="Default Changelist" comment="" />
+      <created>1586492335713</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586492335713</updated>
+    </task>
+    <servers />
+  </component>
+</project>
